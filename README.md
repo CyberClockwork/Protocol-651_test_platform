@@ -1,1 +1,2 @@
-# Protocol-651_test_platform
+# 用于上发的客户端程序
+基于TCP协议
