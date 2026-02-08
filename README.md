@@ -1,1 +1,2 @@
-# Protocol-651_test_platform
+# 用于模拟响应的服务端
+基于TCPServer实现的一个简单的服务端，主要用于模拟响应，测试客户端的功能。
